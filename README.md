@@ -41,3 +41,7 @@ console.log(corvette.logo);  // Icon and text
 console.log(corvette.icon);  // Icon only
 console.log(corvette.text);  // Text only
 ```
+
+## Related
+- [ferrari-logo](https://www.npmjs.com/package/ferrari-logo) - Print the Ferrari logo to the console!
+- [bugatti-logo](https://www.npmjs.com/package/bugatti-logo) - Print the Bugatti logo to the console!

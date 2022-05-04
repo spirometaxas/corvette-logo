@@ -8,7 +8,7 @@ if (process.argv.length > 2) {
     } else if (params[0] === '--text') {
         console.log(corvette.text);
     } else if (params[0] === '--help') {
-        console.log('\nUsage\n' + '  $ npx corvette-logo\n' + '  $ npx corvette-logo --icon\n' + '  $ npx corvette-logo --text\n');
+        console.log('\nUsage:\n' + '  $ corvette-logo\n' + '  $ corvette-logo --icon\n' + '  $ corvette-logo --text\n');
     } else {
         console.log(corvette.logo);
     }
